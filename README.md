@@ -8,7 +8,7 @@ It combines modern social networking with AI-powered content creation and editin
 
 ## 🔗 Live Demo
 
-🌐 **Live Link:** [Faizbook.ai Live](https://faizbookx.vercel.app)    
+🌐 **Live Link:** [CreatorSpace Live](https://faizbookx.vercel.app)    
 🎥 **Demo Video (YouTube):** [Watch Demo](https://www.youtube.com/watch?v=otJTqngjOIE)
 
 ---
