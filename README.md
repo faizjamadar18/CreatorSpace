@@ -1,4 +1,4 @@
-# Faizbook.ai 🤖📱
+# CreatorSpace
 ### AI-Powered Social Media Platform
 
 Faizbook.ai is a fully-featured social media platform built with **Next.js**, **Clerk Authentication**, and **Convex**.  
