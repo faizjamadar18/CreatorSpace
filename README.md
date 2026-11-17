@@ -1,7 +1,7 @@
 # CreatorSpace
-### AI-Powered Social Media Platform
+### A global Content Platform
 
-Faizbook.ai is a fully-featured social media platform built with **Next.js**, **Clerk Authentication**, and **Convex**.  
+CreatorSpace is a fully-featured social media platform built with **Next.js**, **Clerk Authentication**, and **Convex**.  
 It combines modern social networking with AI-powered content creation and editing tools for a seamless, intelligent user experience.
 
 ---
