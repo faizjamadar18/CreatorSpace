@@ -65,12 +65,12 @@ export const CARDS = [
       <Command className="absolute right-10 top-10 w-[70%] origin-to translate-x-0 border border-border transition-all duration-300 ease-out [mask-image:linear-gradient(to_top,transparent_40%,#000_100%)] group-hover:-translate-x-10 p-2">
         <Input placeholder="Type to search..." />
         <div className="mt-1 cursor-pointer">
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user1</div>
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user2</div>
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user3</div>
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user4</div>
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user5</div>
-          <div className="px-4 py-2 hover:bg-muted rounded-md">faizbook.ai/user6</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user1</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user2</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user3</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user4</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user5</div>
+          <div className="px-4 py-2 hover:bg-muted rounded-md">creatorspace.ai/user6</div>
         </div>
       </Command>
     ),

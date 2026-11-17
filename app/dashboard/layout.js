@@ -65,7 +65,7 @@ const DashboardLayout = ({ children }) => {
                             <span className="text-black font-bold text-lg">F</span>
                         </div>
                         <span className={`hidden sm:block text-xl font-black`}>
-                            Faizbook.ai
+                            CreatorSpace.ai
                         </span>
                     </Link>
                     <Button

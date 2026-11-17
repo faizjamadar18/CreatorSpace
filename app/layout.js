@@ -12,7 +12,7 @@ import Header from "@/components/header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Faizbook.ai",
+  title: "CreatorSpace.ai",
   description: "Content Creation powered by AI",
 };
 

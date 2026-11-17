@@ -21,7 +21,7 @@ const Footer = () => {
                                     <span className="text-black font-bold text-lg">F</span>
                                 </div> */}
                                 <span className={`sm:text-xl text-sm font-bold`}>
-                                    Faizbook.ai
+                                    CreatorSpace.ai
                                 </span>
                             </Link>
                         </div>
@@ -147,13 +147,13 @@ const Footer = () => {
             <div className="mt-8 border-t border-border/40 pt-4 md:pt-8 md:flex md:items-center md:justify-between w-full">
                 <AnimationContainer delay={0.6}>
                     <p className="text-sm text-muted-foreground mt-8 md:mt-0">
-                        &copy; {new Date().getFullYear()} Faizbook.ai INC. All rights reserved.
+                        &copy; {new Date().getFullYear()} CreatorSpace.ai INC. All rights reserved.
                     </p>
                 </AnimationContainer>
             </div>
 
             <div className="h-[20rem] lg:h-[20rem] hidden md:flex items-center justify-center">
-                    <TextHoverEffect text="FAIZBOOK" />
+                    <TextHoverEffect text="CREATORSPACE" />
                 </div>
         </footer>
 

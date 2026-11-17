@@ -41,7 +41,7 @@ const Header = () => {
                         <span className="text-black font-bold text-lg">F</span>
                     </div> */}
                     <span className={`text-xl font-black ${dm_Sans.className}`}>
-                        Faizbook.ai
+                        CreatorSpace.ai
                     </span>
                 </Link>
                 {path === "/" && (
